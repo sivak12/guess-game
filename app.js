@@ -1,3 +1,3 @@
 let var1 = "hello";
-print var1;
+console.log(var1);
 const var2 = 21;
